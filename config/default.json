@@ -1,0 +1,5 @@
+{
+  "db": "mongodb+srv://wassim:<password>@cluster0.efly9qa.mongodb.net/AUTH24?retryWrites=true&w=majority",
+  "secret": "shhhh",
+  "PORT": "8000"
+}
